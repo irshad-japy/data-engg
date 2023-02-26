@@ -35,23 +35,3 @@ c
 3pandas_unit_test/test_convert_to_month_end_dates.py,d\2\d27e67a5684c4464d5f36ac4db4f0afed79160c0
 X
 (pandas_demos/convert_wide_to_long_ex1.py,f\6\f6004052837adc08604a5cad5acdcd164f8625a8
-X
-(pandas_demos/convert_wide_to_long_ex2.py,d\7\d7ef6ec0d78f72f5e4b7616d6812bffcee59520e
-X
-(pandas_demos/convert_long_to_wide_ex1.py,2\1\2178f090d693bd7f11ca432e9b4e90b98bb17d75
-K
-pandas_demos/groupby_ex1.py,8\8\881df4a55cfe2bc629f4ee29bcc93a36da154bea
-O
-pandas_demos/groupby_demo.ipynb,0\a\0ac3670991acad360760687544c13a65802518bf
-D
-mstar/kwargs_demo.py,8\b\8ba627c302769e7168c3b00f48f6d138f82b637f
-K
-pandas_demos/groupby_ex2.py,b\8\b85ba914dc4d1ddd1628cf50c92210770e3bba86
-X
-(pandas_demos/convert_long_to_wide_ex2.py,9\0\9051e514c9e2bfe07760e94fdc62075e348411b7
-`
-0pandas_demos/missing_values_in_each_col_of_df.py,f\f\ff1e8f562a9ecc700ddd006dab2d407f880d12bf
-U
-%pandas_demos/drop_duplicates_demos.py,9\2\92b5c73381b4e68d3f2962e82383061025a96afa
-K
-pandas_perf_optimize/ex1.py,6\5\657e0534a5cc524e44a01337521bbe3eaf654869
